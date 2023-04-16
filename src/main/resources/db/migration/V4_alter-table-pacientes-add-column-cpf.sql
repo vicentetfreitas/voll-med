@@ -1,1 +1,0 @@
-ALTER TABLE pacientes add cpf VARCHAR(21) NOT NULL;
